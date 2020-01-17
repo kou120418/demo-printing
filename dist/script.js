@@ -1,4 +1,4 @@
-var s = skrollr.init()
+var s = skrollr.init();
 
 $(window).scroll(function (evt) {
   if ($(window).scrollTop() > 0) {
