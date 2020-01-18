@@ -8,6 +8,12 @@ body {
   height: 1000px;
 }
 
+/* nav.navbar,
+header.jumbotron,
+section {
+  display: none;
+} */
+
 h1,
 h2,
 h3,
@@ -106,6 +112,7 @@ section#section_story {
   background-color: #222;
   color: white;
   padding: 0px;
+  overflow: hidden;
 }
 
 section#section_story .col-sm-5 {
@@ -143,6 +150,10 @@ section#section_story .col-sm-7 .col-sm-12.title hr {
 section#section_story .col-sm-7 .col-sm-12.info {
   margin-top: 40px;
   margin-bottom: 30px;
+}
+
+section#section_future {
+  overflow: hidden;
 }
 
 section#section_future .col-sm-6.pic {
