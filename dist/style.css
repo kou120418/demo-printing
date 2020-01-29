@@ -48,7 +48,7 @@ nav.navbar.fixed-top.navbar-expand-md.navbar-top a:hover {
 
 header.jumbotron {
   text-align: center;
-  background-image: url(http://mmbiz.qpic.cn/mmbiz/5feXIiajDItf8T2YZoxCuVrhFMrVibfeZ8KGD7No9nL7bCUtpviblEmIia4okbL7aHqTNdGd4zWmcO83WfxVNZvibbg/0?wx_fmt=jpeg);
+  background-image: url(../img/bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   margin-bottom: 0px;
@@ -82,7 +82,7 @@ section#section_ask {
 }
 
 section#section_ask .col-sm-5.img {
-  background-image: url(https://www.booklife.com.tw/upload_files/booklife/website/g0200021%20-c2.jpg);
+  background-image: url(../img/ask.jpg);
   height: 350px;
   mix-blend-mode: multiply;
 }
@@ -116,7 +116,7 @@ section#section_story {
 }
 
 section#section_story .col-sm-5 {
-  background-image: url(https://stutzfamily.com/mrstutz/Maps/USHistory/europe1938.gif);
+  background-image: url(../img/europe_map.gif);
   background-size: cover;
   height: 400px;
 }
@@ -180,10 +180,9 @@ section#section_future .col-sm-6 {
 
 footer.jumbotron {
   text-align: center;
-  background-image: url(http://mmbiz.qpic.cn/mmbiz/5feXIiajDItf8T2YZoxCuVrhFMrVibfeZ8KGD7No9nL7bCUtpviblEmIia4okbL7aHqTNdGd4zWmcO83WfxVNZvibbg/0?wx_fmt=jpeg);
+  background-image: url(../img/bg.jpg);
   background-size: cover;
   background-attachment: fixed;
-  margin-bottom: 0px;
 }
 
 footer.jumbotron input {
